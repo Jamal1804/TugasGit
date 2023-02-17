@@ -1,2 +1,2 @@
 Tugas Akhir GIT untuk programmer pemula
-Reset dan Revert
+Reset dan Revert 2
